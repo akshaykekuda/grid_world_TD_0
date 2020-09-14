@@ -1,4 +1,4 @@
-# Value function approximation using TD(0) for Grid-World
+# TD(0) using value function approximation for Grid-World
 
 ## Grid World Problem
 
